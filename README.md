@@ -1,5 +1,5 @@
 # Maltus Port Scanner 🛡️
-![App Screenshot](Screenshot_Maltus.png)
+![App Screenshot](Screenshot_Maltus.PNG)
 
 A sleek, high-performance port scanner with a modern dark-mode GUI. Built for Windows, designed for speed.
 
