@@ -1,0 +1,19 @@
+# PyCharm files
+.idea/
+
+# Environments
+venv/
+ENV/
+
+# Python junk
+__pycache__/
+*.py[cod]
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# C Build files (for your Maltus-C project)
+*.obj
+*.exe
+*.dll
