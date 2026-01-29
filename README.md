@@ -1,4 +1,5 @@
 # Maltus Port Scanner 🛡️
+![App Screenshot](Screenshot_Maltus.png)
 
 A sleek, high-performance port scanner with a modern dark-mode GUI. Built for Windows, designed for speed.
 
@@ -21,5 +22,5 @@ Bash
 
 python gui.py
 
-⚠️ Disclaimer
+⚠️ Disclaimer\n
 This tool is for educational and authorized security testing only. Scanning networks you do not own is illegal.
