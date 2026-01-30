@@ -22,5 +22,5 @@ Bash
 
 python gui.py
 
-⚠️ Disclaimer\n
+⚠️ Disclaimer
 This tool is for educational and authorized security testing only. Scanning networks you do not own is illegal.
